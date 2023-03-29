@@ -4,27 +4,90 @@
     "href": "index.html",
     "title": "Cartography",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Preface\nThis is a textbook designed as an introduction to core geospatial skills relevant to an undergraduate student in Environmental Studies."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
+    "objectID": "introduction.html",
+    "href": "introduction.html",
     "title": "1  Introduction",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+    "objectID": "spatial_data-coordinate_systems.html#datum",
+    "href": "spatial_data-coordinate_systems.html#datum",
+    "title": "4  Coordinate Systems",
+    "section": "4.1 Datum",
+    "text": "4.1 Datum"
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "objectID": "spatial_data-coordinate_systems.html#projections",
+    "href": "spatial_data-coordinate_systems.html#projections",
+    "title": "4  Coordinate Systems",
+    "section": "4.2 Projections",
+    "text": "4.2 Projections"
+  },
+  {
+    "objectID": "mapping_areas.html#choropleth-maps",
+    "href": "mapping_areas.html#choropleth-maps",
+    "title": "7  Mapping Areas",
+    "section": "7.1 Choropleth Maps",
+    "text": "7.1 Choropleth Maps\n\n7.1.0.1 Chorochomatic (area-class) Maps"
+  },
+  {
+    "objectID": "mapping_areas.html#dasymetric-maps",
+    "href": "mapping_areas.html#dasymetric-maps",
+    "title": "7  Mapping Areas",
+    "section": "7.2 Dasymetric Maps",
+    "text": "7.2 Dasymetric Maps"
+  },
+  {
+    "objectID": "mapping_areas.html#cartograms",
+    "href": "mapping_areas.html#cartograms",
+    "title": "7  Mapping Areas",
+    "section": "7.3 Cartograms",
+    "text": "7.3 Cartograms"
+  },
+  {
+    "objectID": "mapping_values.html#proportional-symbol-maps",
+    "href": "mapping_values.html#proportional-symbol-maps",
+    "title": "8  Symbol Based Maps",
+    "section": "8.1 Proportional Symbol Maps",
+    "text": "8.1 Proportional Symbol Maps"
+  },
+  {
+    "objectID": "mapping_values.html#pies-on-maps",
+    "href": "mapping_values.html#pies-on-maps",
+    "title": "8  Symbol Based Maps",
+    "section": "8.2 Pies on Maps",
+    "text": "8.2 Pies on Maps"
+  },
+  {
+    "objectID": "mapping_values.html#dot-maps",
+    "href": "mapping_values.html#dot-maps",
+    "title": "8  Symbol Based Maps",
+    "section": "8.3 Dot Maps",
+    "text": "8.3 Dot Maps"
+  },
+  {
+    "objectID": "mapping_terrain.html#isarithmic-isoline-maps",
+    "href": "mapping_terrain.html#isarithmic-isoline-maps",
+    "title": "9  Terrain Maps",
+    "section": "9.1 Isarithmic (Isoline) Maps",
+    "text": "9.1 Isarithmic (Isoline) Maps"
+  },
+  {
+    "objectID": "mapping_terrain.html#habitat-maps",
+    "href": "mapping_terrain.html#habitat-maps",
+    "title": "9  Terrain Maps",
+    "section": "9.2 Habitat Maps",
+    "text": "9.2 Habitat Maps"
+  },
+  {
+    "objectID": "mapping_terrain.html#rayshader",
+    "href": "mapping_terrain.html#rayshader",
+    "title": "9  Terrain Maps",
+    "section": "9.3 Rayshader",
+    "text": "9.3 Rayshader"
   }
 ]

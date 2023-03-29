@@ -1,0 +1,9 @@
+# Mapping Areas
+
+## Choropleth Maps 
+
+#### Chorochomatic (area-class) Maps
+
+## Dasymetric Maps
+
+## Cartograms

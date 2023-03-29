@@ -4,13 +4,35 @@ project:
 
 book:
   title: "Cartography"
-  author: "Rodney Dyer"
+  author: "Rodney J. Dyer"
   date: "8/25/2023"
+  page-navigation: true
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - introduction.qmd
+    - history.qmd
+    
+    - part: spatial_data.qmd
+      chapters:
+      - spatial_data-map_elements.qmd
+      - spatial_data-coordinate_systems.qmd 
+      - spatial_data-symbology_classification.qmd
+      - spatial_data-colors_typography.qmd
+      
+    - part: mapping.qmd
+      chapters:
+      - mapping_areas.qmd
+      - mapping_values.qmd
+      - mapping_terrain.qmd
+    
+    - part: analyses.qmd
+      chapters:
+      - analyses-joins.qmd
+      - analyses-topological_relations.qmd
+      - analyses-spatial_subsetting.qmd
+      - analyses-aggregation.qmd
+      - analyses-distances.qmd
+
 
 bibliography: references.bib
 
