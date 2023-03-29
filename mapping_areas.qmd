@@ -1,6 +1,6 @@
 # Mapping Areas
 
-## Choropleth Maps 
+## Choropleth Maps
 
 #### Chorochomatic (area-class) Maps
 
